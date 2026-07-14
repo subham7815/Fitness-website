@@ -144,7 +144,7 @@ This project was created with the help of AI-assisted prompts for:
 
 B.Tech Computer Science & Engineering Student
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/subham7815)
 
 LinkedIn: [www.linkedin.com/in/subham7815](https://www.linkedin.com/in/subham7815/)
 
