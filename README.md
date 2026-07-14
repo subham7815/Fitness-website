@@ -4,7 +4,7 @@ FitLife is a modern, responsive fitness website built using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo
 
-**Vercel:** https://your-vercel-link.vercel.app
+**Vercel:** [https://your-vercel-link.vercel.app](https://fitness-website-sandy-eight.vercel.app)
 
 **GitHub Repository:** [https://github.com/yourusername/FitLife](https://github.com/subham7815/Fitness-website)
 
