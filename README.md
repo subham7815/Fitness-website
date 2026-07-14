@@ -146,7 +146,7 @@ B.Tech Computer Science & Engineering Student
 
 GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [www.linkedin.com/in/subham7815](https://www.linkedin.com/in/subham7815/)
 
 ---
 
