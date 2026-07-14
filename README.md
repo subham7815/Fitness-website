@@ -111,15 +111,16 @@ The website is fully responsive and optimized for:
 
 ### Home Page
 
-_Add a screenshot here_
+<img width="1910" height="982" alt="Screenshot 2026-07-14 142452" src="https://github.com/user-attachments/assets/3923997f-2bba-461e-ba15-06b87065a370" />
 
 ### About Section
 
-_Add a screenshot here_
+<img width="1912" height="976" alt="Screenshot 2026-07-14 142436" src="https://github.com/user-attachments/assets/4373409b-d754-4b41-8081-fadfb4e6c16d" />
+
 
 ### Membership Plans
 
-_Add a screenshot here_
+<img width="1912" height="981" alt="Screenshot 2026-07-14 142513" src="https://github.com/user-attachments/assets/1884621a-4adb-4643-90fd-4cde5677f956" />
 
 ---
 
